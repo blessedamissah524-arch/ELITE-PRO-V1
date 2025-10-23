@@ -8,7 +8,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Put your SESSION_ID here.",
-      "value": "",
+      "value": "{"noiseKey":{"private":{"type":"Buffer","data":"GOgrX2D7erT0Stc+HxK/4l14kT8ZVzSZ589TW2fOxGY="},"public":{"type":"Buffer","data":"AR92f0rTLBa6wPd19snwdDpCKFA5Aeq8S0FyP9lSrAo="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"WJjdfTEPbf5MivV3NB3gbUuXOezGdMXp5s4qkxTRFlA="},"public":{"type":"Buffer","data":"hSyYd27TocpY12rpd1WVkYyeA+5FLKMLUghOxpD53CE="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"QH/yBPQbMtUx0YFPXIHqagTK7TgAuPpvKa5bS8LsGkY="},"public":{"type":"Buffer","data":"k6KVcQs8NZsP++kaTkIqwf5drDlhZNuz6NRk2lI44ns="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"kChwjV/JLgd/yA7N3btoVTTYKKkGTSDbMbPET3QRzUs="},"public":{"type":"Buffer","data":"Pno5LOmHQG8J1vUpyqaaJoe48Rdugio3tg3b6GEAWHo="}},"signature":{"type":"Buffer","data":"tFcQ6rIyitJKACrOZUBOo8C0z4MEiUJa6HMDJCavOiCx+VLzOQE/rLO0QzqHIdIG1SkPFJc4ym2ELDv03p7Uhw=="},"keyId":1},"registrationId":68,"advSecretKey":"a1fbXz5EFnkMpiY+Omzp6tNWb9xdmw3Px/QNE4OG5OE=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"5DZJS0C0","me":{"id":"233508655260:10@s.whatsapp.net","lid":"25525644955882:10@lid"},"account":{"details":"CM24+NAGEN/o5ccGGAIgACgA","accountSignatureKey":"YOfeewPjjzzIW322MpbZoLPZD/MrRydg9km0witCwRc=","accountSignature":"mYxoL+rvKEN5KxfEdGzvZ4iPCYEhk9P13VAg4c0mxmdq2Pd84CIsEf1tX9vONziq4xjL9Sxe5/ZfLs47i+m9jQ==","deviceSignature":"e/+N7zFQLkpFoMNjIGAJMRORzpFsAsGXgmEV9CbyGzRaYZbcXH8GUkbIeaf2eOS+l9ItCaChNCAO6+3b/TQqig=="},"signalIdentities":[{"identifier":{"name":"233508655260:10@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BWDn3nsD4488yFt9tjKW2aCz2Q/zK0cnYPZJtMIrQsEX"}}],"platform":"iphone","routingInfo":{"type":"Buffer","data":"CAIICA=="},"lastAccountSyncTimestamp":1761178728,"lastPropHash":"2G4Amu","myAppStateKeyId":"AAAAAAnf"}",
       "required": true
     },
     "PREFIX": {
@@ -18,7 +18,7 @@
     },
     "OWNER_NUMBER": {
       "description": "Owner's phone number in international format (without +).",
-      "value": "2347047504860",
+      "value": "233508655260",
       "required": true
     }
   }
